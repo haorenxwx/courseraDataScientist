@@ -1,0 +1,14 @@
+Mark Done note
+
+headings
+## this is a secondary heading
+### this is a tertiary heading
+####....
+
+Unordered Lists
+* first item in list
+* secong item in list
+* third item in list
+
+Rstudio MD button
+R markdown https://www.rstudio.com/ide/docs/authoring/using_markdown
