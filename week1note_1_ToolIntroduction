@@ -1,0 +1,5 @@
+important R function
+ ?rnorm
+ help.search("rnorm")
+ args("rnorm")
+ function(n,mean = 0,sd=1)
